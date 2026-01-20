@@ -1,0 +1,14 @@
+# Large outputs and datasets
+artifacts/
+data/
+runs/
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
