@@ -1,7 +1,13 @@
-# Large outputs and datasets
-artifacts/
-data/
-runs/
+# Large outputs and datasets (allow LFS-tracked files below)
+artifacts/**
+!artifacts/**/
+!artifacts/**/*.npy
+data/**
+!data/**/
+!data/**/*.safetensors
+runs/**
+!runs/**/
+!runs/**/*.pt
 
 # OS
 .DS_Store
