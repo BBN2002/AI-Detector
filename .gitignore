@@ -1,7 +1,11 @@
-# Large outputs and datasets (allow LFS-tracked files below)
+# Large outputs and datasets (allow tracked files below)
 artifacts/**
 !artifacts/**/
 !artifacts/**/*.npy
+!artifacts/**/*.parquet
+!artifacts/**/*.bin
+!artifacts/**/*.pt
+!artifacts/**/*.json
 data/**
 !data/**/
 !data/**/*.safetensors

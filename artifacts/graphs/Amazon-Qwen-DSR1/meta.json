@@ -1,0 +1,6 @@
+{
+  "dataset": "Amazon-Qwen-DSR1",
+  "num_nodes": 89258,
+  "num_edges": 3874010,
+  "input_path": "/root/autodl-fs/fraudsquad_project/artifacts/graphs/Amazon-Qwen-DSR1/nodes.parquet"
+}

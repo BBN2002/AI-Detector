@@ -1,0 +1,11 @@
+{
+  "seed": 2026,
+  "n_total": 89247,
+  "n_train": 893,
+  "n_val": 8032,
+  "n_test": 80322,
+  "spam_rate": 0.0278888926238417,
+  "spam_train": 25,
+  "spam_val": 224,
+  "spam_test": 2240
+}

@@ -1,0 +1,6 @@
+{
+  "dataset": "Amazon-LowSlow",
+  "num_nodes": 89247,
+  "num_edges": 3859078,
+  "input_path": "/root/autodl-fs/fraudsquad_project/artifacts/graphs/Amazon-LowSlow/nodes.parquet"
+}

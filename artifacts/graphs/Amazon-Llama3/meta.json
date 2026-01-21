@@ -1,0 +1,6 @@
+{
+  "dataset": "Amazon-Llama3",
+  "num_nodes": 89247,
+  "num_edges": 3874880,
+  "input_path": "/root/autodl-fs/fraudsquad_project/artifacts/graphs/Amazon-Llama3/nodes.parquet"
+}
